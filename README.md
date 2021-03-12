@@ -4,6 +4,7 @@
 **Biltu5/Biltu5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started: -->
+ Welcome to my little space on Github. Here i put my thoughts and ideas into code.
 
 - 🔭 Primary coding language : Python
 - 🌱 I’m currently learning PHP, Data science.
