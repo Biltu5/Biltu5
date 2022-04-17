@@ -6,7 +6,7 @@
 Here are some ideas to get you started: -->
  Welcome to my little space on Github. Here i put my thoughts and ideas into code.
 
-- 🔭 Primary coding language : Python
+- 🔭 Primary coding language : Python, C#, JS
 - 🌱 I’m a Full Stack Web Developer [ASP.NET, MERN].
 - 👯 I’m looking for a Intership / job.
 - 🥅 2022 Goals: Contribute more to Open Source projects.
