@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Biltu Nayak 👋</h1>
 
 <p align="center">
-  <b>Full Stack Web Developer • ASP.NET · .NET · Angular · Java</b>
+  <b>Full Stack Web Developer • ASP.NET · .NET Core · Angular </b>
 </p>
 
 <p align="center">
@@ -76,12 +76,8 @@
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=biltu5&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=biltu5&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biltu5&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
 
 ---
 
